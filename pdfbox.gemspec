@@ -1,4 +1,5 @@
 # frozen_string_literal: true
+# encoding: UTF-8
 
 version = File.read(File.expand_path("lib/pdfbox/version.rb", __dir__)).strip
 
